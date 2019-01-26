@@ -7,5 +7,6 @@
 <style scoped>
 #root {
   color: red;
+  font-size: 44px;
 }
 </style>

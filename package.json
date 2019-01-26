@@ -8,6 +8,8 @@
   },
   "dependencies": {
     "@babel/polyfill": "^7.0.0-rc.1",
+    "@webdataorg/linxios": "^1.0.0",
+    "@webdataorg/linxios-vue": "^1.1.2",
     "material-design-icons-iconfont": "^3.0.3",
     "roboto-fontface": "^0.10.0",
     "vue": "^2.5.21",

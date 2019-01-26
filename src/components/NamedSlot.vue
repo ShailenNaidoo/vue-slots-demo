@@ -14,15 +14,20 @@
 
 <style scoped>
 header {
-  color: red;
+  background-color: crimson;
+  color: white;
+  font-size: 44px;
 }
 
 main {
   color: blue;
+  font-size: 26px;
 }
 
 footer {
-  color: yellow;
+  color: black;
+  background-color: yellow;
+  padding: 20px;
 }
 </style>
 
